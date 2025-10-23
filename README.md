@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy [Tu Nombre] 👋
 
-<!--
-**JostinAlvaradoS/JostinAlvaradoS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador full-stack | Apasionado por Python y JS.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías (basado en mis repos)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Mis Stats de GitHub
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&count_private=true)
+
+## 🔥 Mi racha
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical)
+
+## 🏆 Logros
+![Troféos](https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=radical)
+
+## 📫 Conecta
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/tu-perfil)
