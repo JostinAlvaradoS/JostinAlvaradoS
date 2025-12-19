@@ -6,8 +6,8 @@
 - 🔭 Actualmente trabajando en proyectos con Angular, Firebase, Go y más  
 - 🌱 Aprendiendo y profundizando en DevOps, arquitectura backend y buenas prácticas de seguridad  
 - 👨‍💻 Mi portafolio personal: [jostinalvaradoportafolio.web.app](https://jostinalvaradoportafolio.web.app)  
-- 💼 LinkedIn: [linkedin.com/in/jostinalvarado](https://www.linkedin.com/in/jostinalvarado)  
-- 📫 Contáctame: jostinalvarados@outlook.com  
+- 💼 LinkedIn: [linkedin.com/in/jostinalvarados](https://www.linkedin.com/in/jostinalvarados)  
+- 📫 Contáctame: jostinalvaradosarmiento@gmail.com
 
 ## 🚀 Mis Estadísticas de GitHub (incluyendo repos privados)
 
