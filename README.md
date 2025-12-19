@@ -6,8 +6,8 @@
 - 🔭 Actualmente trabajando en proyectos con Angular, Firebase, Go y más  
 - 🌱 Aprendiendo y profundizando en DevOps, arquitectura backend y buenas prácticas de seguridad  
 - 👨‍💻 Mi portafolio personal: [jostinalvaradoportafolio.web.app](https://jostinalvaradoportafolio.web.app)  
-- 💼 LinkedIn: [linkedin.com/in/jostinalvarados](https://www.linkedin.com/in/jostinalvarados)  
-- 📫 Contáctame: jostinalvaradosarmiento@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/jostinalvarado](https://www.linkedin.com/in/jostinalvarado)  
+- 📫 Contáctame: jostinalvaradosarmiento@gmail.com 
 
 ## 🚀 Mis Estadísticas de GitHub (incluyendo repos privados)
 
@@ -19,10 +19,6 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jostinalvarados&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-## 🏆 GitHub Trophies
-
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=jostinalvarados&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
-
 ## 📌 Proyectos Destacados
 
 <img align="left" height="180" src="https://github-readme-stats-drab-alpha-48.vercel.app/api/pin/?username=jostinalvarados&repo=Liveplan_Go&theme=tokyonight&hide_border=true" alt="Liveplan_Go" />
@@ -32,8 +28,6 @@
 <img align="left" height="180" src="https://github-readme-stats-drab-alpha-48.vercel.app/api/pin/?username=jostinalvarados&repo=JostinAlvaradoS&theme=tokyonight&hide_border=true" alt="Mi perfil personalizado" />
 
 <img align="left" height="180" src="https://github-readme-stats-drab-alpha-48.vercel.app/api/pin/?username=jostinalvarados&repo=graphdb-soccer-frontend--3-&theme=tokyonight&hide_border=true" alt="GraphDB Soccer Frontend" />
-
-<!-- Puedes agregar más pinned si tienes otros repos importantes -->
 
 <div style="clear:both"></div>
 
