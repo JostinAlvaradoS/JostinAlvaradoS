@@ -15,10 +15,6 @@
 
 <img align="center" src="https://github-readme-stats-drab-alpha-48.vercel.app/api/top-langs/?username=jostinalvarados&layout=compact&langs_count=10&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 
-## 🔥 Mi Racha de Contribuciones
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jostinalvarados&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
 ## 📌 Proyectos Destacados
 
 <img align="left" height="180" src="https://github-readme-stats-drab-alpha-48.vercel.app/api/pin/?username=jostinalvarados&repo=Liveplan_Go&theme=tokyonight&hide_border=true" alt="Liveplan_Go" />
