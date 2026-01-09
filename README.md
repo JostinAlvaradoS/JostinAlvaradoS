@@ -9,7 +9,7 @@
 - 💼 LinkedIn: [linkedin.com/in/jostinalvarado](https://www.linkedin.com/in/jostinalvarado)  
 - 📫 Contáctame: jostinalvaradosarmiento@gmail.com 
 
-## 🚀 Mis Estadísticas de GitHub (incluyendo repos privados)
+## 🚀 Mis Estadísticas de GitHub
 
 <img align="center" src="https://github-readme-stats-drab-alpha-48.vercel.app/api?username=jostinalvarados&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&hide_title=false&hide_rank=false" alt="Estadísticas generales" />
 
