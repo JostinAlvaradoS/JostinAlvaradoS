@@ -19,11 +19,7 @@
 
 <img align="left" height="180" src="https://github-readme-stats-drab-alpha-48.vercel.app/api/pin/?username=jostinalvarados&repo=Liveplan_Go&theme=tokyonight&hide_border=true" alt="Liveplan_Go" />
 
-<img align="left" height="180" src="https://github-readme-stats-drab-alpha-48.vercel.app/api/pin/?username=jostinalvarados&repo=ReinadeLoja-landing&theme=tokyonight&hide_border=true" alt="ReinadeLoja-landing" />
-
-<img align="left" height="180" src="https://github-readme-stats-drab-alpha-48.vercel.app/api/pin/?username=jostinalvarados&repo=JostinAlvaradoS&theme=tokyonight&hide_border=true" alt="Mi perfil personalizado" />
-
-<img align="left" height="180" src="https://github-readme-stats-drab-alpha-48.vercel.app/api/pin/?username=jostinalvarados&repo=graphdb-soccer-frontend--3-&theme=tokyonight&hide_border=true" alt="GraphDB Soccer Frontend" />
+<img align="left" height="180" src="https://github-readme-stats-drab-alpha-48.vercel.app/api/pin/?username=jostinalvarados&repo=ws_rifasoyola&theme=tokyonight&hide_border=true" alt="Liveplan_Go" />
 
 <div style="clear:both"></div>
 
