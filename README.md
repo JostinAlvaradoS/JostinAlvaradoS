@@ -84,10 +84,9 @@ Suite de pruebas automatizadas desarrolladas durante el training en Sofka Techno
 
 ## Certificaciones
 
-<div align="center">
 [![GitHub Foundations](https://img.shields.io/badge/GitHub_Foundations-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/310cee82-50cd-4824-9d1e-5e2ae7cd0c34/public_url)
 [![MySQL Associate](https://img.shields.io/badge/MySQL_Implementation_Associate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0F2EAB992AB1898C45AD8916473F78FC27CB55939D6E5C4F386DDC4BBFBB095E)
-</div>
+
 ---
 
 ## Estadísticas
