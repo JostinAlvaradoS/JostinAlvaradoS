@@ -13,8 +13,7 @@
 ---
 
 Desarrollador Full Cycle con 3+ años construyendo sistemas en producción para entornos financieros, académicos y empresariales. Trabajo a lo largo de todo el ciclo: **diseño de arquitectura, backend, frontend, pruebas automatizadas y despliegue**.
-
-Actualmente en **Sofka Technologies**, donde diseñé la arquitectura de un sistema de ticketing distribuido: definí el uso de Apache Kafka, los eventos y tópicos entre microservicios, y una estrategia de base de datos compartida con schemas separados pensada para escalar a bases independientes. Stack: `.NET · Kafka · Docker · GitHub Actions · Arquitectura Hexagonal · TDD/BDD`.
+Stack: `.NET · Kafka · Docker · GitHub Actions · Arquitectura Hexagonal · TDD/BDD`.
 
 ---
 
@@ -85,9 +84,10 @@ Suite de pruebas automatizadas desarrolladas durante el training en Sofka Techno
 
 ## Certificaciones
 
+<div align="center">
 [![GitHub Foundations](https://img.shields.io/badge/GitHub_Foundations-181717?style=for-the-badge&logo=github&logoColor=white)](https://www.credly.com/badges/310cee82-50cd-4824-9d1e-5e2ae7cd0c34/public_url)
 [![MySQL Associate](https://img.shields.io/badge/MySQL_Implementation_Associate-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0F2EAB992AB1898C45AD8916473F78FC27CB55939D6E5C4F386DDC4BBFBB095E)
-
+</div>
 ---
 
 ## Estadísticas
